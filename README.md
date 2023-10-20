@@ -78,11 +78,6 @@
 
 ###
 
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mdamrd0azwnae1g7x5qp615kl&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>  
-
-###
-
 <div align="center">
     <h3>Profile Views</h3>
   <img src="https://profile-counter.glitch.me/GangwarTanmay/count.svg?"  />
