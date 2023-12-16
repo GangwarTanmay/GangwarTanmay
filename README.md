@@ -19,7 +19,8 @@
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=GangwarTanmay&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GangwarTanmay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gangwartanmay&show_icons=true&locale=en" alt="gangwartanmay" /></p>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GangwarTanmay&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GangwarTanmay&theme=2077" height="180em" />
 </div>
 
 ###
@@ -56,25 +57,19 @@
 ###
 
 <div align="left">
-  <a href="tanmaygangwar7@gmail.com" target="_blank">
+  <a href="tanmaygangwar7@gmail.com" style="text-decoration:none;" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/tanmay-gangwar-27a123245/" target="_blank">
+  <a href="https://www.linkedin.com/in/tanmay-gangwar-27a123245/"  style="text-decoration:none;" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/tanmay.gangwar.716" target="_blank">
+  <a href="https://www.facebook.com/tanmay.gangwar.716"  style="text-decoration:none;" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://www.hackerrank.com/tanmaygangwar7" target="_blank">
+  <a href="https://www.hackerrank.com/tanmaygangwar7"  style="text-decoration:none;" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GangwarTanmay/GangwarTanmay/output/snake.svg" alt="Snake animation" />
 
 ###
 
