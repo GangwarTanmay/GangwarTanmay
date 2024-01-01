@@ -25,7 +25,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/Flf8Z_pGZwMAAAAM/menhera-kun-hi-anime-hi.gif"  />
+<img align="right" height="150" src="https://www.canva.com/design/DAF4rBUOTAg/-QexmlYnVBJH_FB6k7ieTg/view?utm_content=DAF4rBUOTAg&utm_campaign=designshare&utm_medium=link&utm_source=editor"  />
 
 ###
 
