@@ -1,4 +1,4 @@
-### <div align="center">Hey🖐️, I'm Tanmay , a passionate java developer</div>  
+### <div align="center">Hey🖐️, I'm Tanmay , a passionate MERN stack developer</div>  
   
 
 - 🔭 I’m currently pursuing B.Tech (Computer Science and Engineering)  
@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1soliOpH_r0kxOMdfeicoJKuem_i0g0Ct/view?usp=drive_link](https://drive.google.com/file/d/1soliOpH_r0kxOMdfeicoJKuem_i0g0Ct/view?usp=drive_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1fvLBltUycI7eTdsQk-OIjzs6zNpWgNVi/view?usp=drive_link)
 
   
 
